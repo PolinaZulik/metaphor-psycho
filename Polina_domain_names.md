@@ -14,3 +14,5 @@ seems that the target domains are ordered by decreasing frequency.
 ![изображение](https://user-images.githubusercontent.com/2161303/169042489-391e4b0d-bfee-462c-b43c-a8bb82a91635.png)
 
 ? 6-battle, ? 0-building, ? 1-protection, ? 2-body_of_water, & 3-PHYSICAL HARM?
+
+source domains also seem correct in terms of decrease of frequency, see [paper](https://aclanthology.org/2022.acl-long.144.pdf) p.14.

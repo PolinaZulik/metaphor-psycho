@@ -4,7 +4,7 @@ This is to perform experiments on metaphor usage characterizing Russian speakers
 
 ## Materials for the paper 'Towards automatic conceptual metaphor detection for psychological tasks'
 
-I've added the data for the paper 'Towards automatic conceptual metaphor detection for psychological tasks' by Polina Panicheva, Ivan Mamaev, and Tatiana Litvinova, submitted for review on June 30th '22.
+I've added the data for the paper _'Towards automatic conceptual metaphor detection for psychological tasks'_ by Polina Panicheva, Ivan Mamaev, and Tatiana Litvinova, submitted for review in June'22.
 
 - [annotation](https://github.com/PolinaZulik/metaphor-psycho/tree/main/annotation/split1): **MetPersonality** texts annotated by 3 annotators. This is the first annotation attempt described in the paper.
 - [code](https://github.com/PolinaZulik/metaphor-psycho/tree/main/code) on:
